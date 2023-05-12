@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gaes/static/css/main.cd75ef4e.css",
+    "main.js": "/gaes/static/js/main.06981c86.js",
+    "static/media/loginBanner.jpg": "/gaes/static/media/loginBanner.e2d377e74a7411b83c91.jpg",
+    "static/media/logo.png": "/gaes/static/media/logo.78ba43012bd49671f3dd.png",
+    "index.html": "/gaes/index.html",
+    "main.cd75ef4e.css.map": "/gaes/static/css/main.cd75ef4e.css.map",
+    "main.06981c86.js.map": "/gaes/static/js/main.06981c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd75ef4e.css",
+    "static/js/main.06981c86.js"
+  ]
+}
